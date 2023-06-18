@@ -1,1 +1,1 @@
-Sitemap: phanviet.github.io/keycap/sitemap.xml
+Sitemap: phanviet.github.io/sitemap.xml

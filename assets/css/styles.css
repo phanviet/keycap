@@ -1079,12 +1079,12 @@ input:checked + .toggle-bg {
   height: 1.5rem;
 }
 
-.h-64 {
-  height: 16rem;
-}
-
 .h-8 {
   height: 2rem;
+}
+
+.h-\[400px\] {
+  height: 400px;
 }
 
 .h-full {
@@ -1189,10 +1189,6 @@ input:checked + .toggle-bg {
 
 .resize {
   resize: both;
-}
-
-.grid-cols-2 {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .grid-cols-4 {
@@ -1747,14 +1743,6 @@ input:checked + .toggle-bg {
   }
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-@media (min-width: 768px) {
-  .md\:h-64 {
-    height: 16rem;
-  }
-  .md\:h-80 {
-    height: 20rem;
   }
 }
 @media (min-width: 1280px) {

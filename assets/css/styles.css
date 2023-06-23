@@ -967,12 +967,12 @@ input:checked + .toggle-bg {
   bottom: 0px;
 }
 
-.bottom-\[60px\] {
-  bottom: 60px;
+.bottom-\[140px\] {
+  bottom: 140px;
 }
 
-.bottom-\[80px\] {
-  bottom: 80px;
+.bottom-\[60px\] {
+  bottom: 60px;
 }
 
 .left-0 {
@@ -1446,6 +1446,11 @@ input:checked + .toggle-bg {
 
 .tracking-tight {
   letter-spacing: -0.025em;
+}
+
+.text-blue-400 {
+  --tw-text-opacity: 1;
+  color: rgb(118 169 250/var(--tw-text-opacity));
 }
 
 .text-blue-600 {
